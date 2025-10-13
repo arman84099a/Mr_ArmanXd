@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", ""))
 
 API_HASH = getenv("API_HASH", "")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "7964473101:AAHCcOZTezdqAD8Jf_2e2xNT-aRPVGNTnfg")
+BOT_TOKEN = getenv("BOT_TOKEN", "7952622129:AAHMfCrE2-L5b8226SwAVOVlrQ5tumTpyKE")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 
@@ -23,7 +23,7 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
-OWNER_ID = int(getenv("OWNER_ID", "7992144554"))
+OWNER_ID = int(getenv("OWNER_ID", "7573273095"))
 
 BOT_USERNAME = getenv("BOT_USERNAME" , "SanyaMusicRobot")
 
@@ -42,8 +42,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", ""
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Mr_ZaidXd")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+ztndLS_z6H5lNmU1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SuppieCheat")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/SUPPIETROLL")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
